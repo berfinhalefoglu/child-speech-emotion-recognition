@@ -2,3 +2,15 @@ node_modules/
 .expo/
 dist/
 build/
+# Büyük veri ve ses dosyaları
+    data/
+    *.wav
+    *.mp3
+    *.amr
+    *.pth
+    __pycache__/
+    temp_uploads/
+    node_modules/
+    .expo/
+    dist/
+    build/
