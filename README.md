@@ -2,7 +2,7 @@
 
 EmotiVoice, çocukların günlük konuşma seslerinden duygu durumlarını otomatik olarak tespit eden, ebeveynler ve bakım verenler için geliştirilmiş mobil tabanlı bir yapay zeka projesidir. Çocukların duygularını her zaman kelimelerle ifade edememesi ve fark edilmeyen duygusal sıkıntıların gelişimlerini olumsuz etkileyebilmesi temel alınarak tasarlanmıştır.
 
-<img src="./poster.png" alt="Tez Posteri" width="100%">
+<img src="./poster.jpg" alt="Tez Posteri" width="100%">
 
 ## 🚀 Proje Hakkında
 Konuşma, zengin duygusal bilgiler barındırır. EmotiVoice; çocukların yabancı olmadıkları doğal ses etkileşimleri üzerinden pasif bir şekilde duygu analizi yaparak erken müdahaleye olanak tanır. 
